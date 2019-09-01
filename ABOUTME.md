@@ -3,7 +3,7 @@ Jake Sebald
 sebaldjm@mail.uc.edu
 
 # Coop
-Marathon Petroleum
+Marathon Petroleum **All coops**
  * Data Science (R, SQL, Pyhton)
  * ABAP dev
  * C# dev
